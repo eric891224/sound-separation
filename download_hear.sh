@@ -1,0 +1,21 @@
+
+tar -xzf hear2021-beehive_states_fold0-v2-full-16000.tar.gz    
+tar -xzf hear2021-beehive_states_fold1-v2-full-16000.tar.gz     
+tar -xzf hear2021-beijing_opera-v1.0-hear2021-full-16000.tar.gz 
+tar -xzf hear2021-dcase2016_task2-hear2021-full-16000.tar.gz   
+tar -xzf hear2021-esc50-v2.0.0-full-16000.tar.gz            
+tar -xzf hear2021-fsd50k-v1.0-full-16000.tar.gz                 
+tar -xzf hear2021-gunshot_triangulation-v1.0-full-16000.tar.gz  
+tar -xzf hear2021-libricount-v1.0.0-hear2021-full-16000.tar.gz  
+tar -xzf hear2021-maestro-v3.0.0-5h-16000.tar.gz                
+tar -xzf hear2021-mridangam_stroke-v1.5-full-16000.tar.gz        
+tar -xzf hear2021-mridangam_tonic-v1.5-full-16000.tar.gz
+tar -xzf hear2021-nsynth_pitch-v2.2.3-50h-16000.tar.gz
+tar -xzf hear2021-nsynth_pitch-v2.2.3-5h-16000.tar.gz
+tar -xzf hear2021-speech_commands-v0.0.2-5h-16000.tar.gz
+tar -xzf hear2021-speech_commands-v0.0.2-full-16000.tar.gz
+tar -xzf hear2021-tfds_crema_d-1.0.0-full-16000.tar.gz
+tar -xzf hear2021-tfds_gtzan-1.0.0-full-16000.tar.gz
+tar -xzf hear2021-tfds_gtzan_music_speech-1.0.0-full-16000.tar.gz
+tar -xzf hear2021-vocal_imitation-v1.1.3-full-16000.tar.gz
+tar -xzf hear2021-vox_lingua_top10-hear2021-full-16000.tar.gz

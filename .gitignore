@@ -1,0 +1,6 @@
+S3PRL.sh.*
+*.tar.gz
+LICENSE.txt
+embeddings/
+tasks/
+logs/
